@@ -5,9 +5,9 @@
 **Here's how it works:**
 
 1. **Import libraries:** The program starts by importing the `imageio.v3` library, which is used for image processing and creating GIFs.
-  - install the `imageio` package using the `pip` command such as,
+  - install the `imageio` package using the `pip`
   ```bash
-  pip install imageio
+    pip install imageio
   ```
 2. **Organize image lists:** Separate lists are defined to store filenames for different themes (e.g., Brawl Stars, My Images, Nature). This helps with code clarity and maintainability.
 3. **User input:** The program prompts the user to select a theme using a numbered menu (1-3 or anything else).
