@@ -67,5 +67,4 @@ else:
     iio.imwrite('Generated Gifs/team.gif', e_images, duration=500, loop=0)
     print("Check out the exampleImages.gif file - that's just created!")
     print("Try the other themes too!")
-
-#By AVidhanR
+# By AVidhanR
